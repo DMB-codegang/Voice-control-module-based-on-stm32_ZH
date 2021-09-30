@@ -14,5 +14,5 @@
   
   
   
-板子的预览图：
+板子的预览图：  
 ![image](https://github.com/DMB-codegang/Voice-control-module-based-on-stm32_ZH/blob/main/%E8%87%AA%E8%BF%B0%E8%B5%84%E6%BA%90%EF%BC%8C%E4%B8%8D%E7%94%A8%E7%AE%A1%E8%BF%99%E4%B8%AA/imager1.png)
